@@ -20,7 +20,7 @@
     {
         double s, r;
         r = 2;
-        s = Math.PI * r;
+        s = Math.PI * r*r;
         Console.WriteLine(s);
     }
     public static void Task3()
